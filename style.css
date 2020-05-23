@@ -1,0 +1,9 @@
+.dot{
+    border-bottom: dotted 3px black;
+    width: 100%;
+    float: left;
+    position: relative;
+    display: block;
+    height: 12px;
+    margin: 0 5px 0 5px;
+}
